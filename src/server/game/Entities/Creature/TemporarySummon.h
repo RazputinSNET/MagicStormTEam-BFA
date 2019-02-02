@@ -61,6 +61,7 @@ enum PetEntries
     ENTRY_CHAOS_TEAR              = 108493,
     ENTRY_UNSTABLE_TEAR           = 94584,
     ENTRY_SHADOWY_TEAR            = 99887,
+    ENTRY_VILEFIEND               = 135816,
     // Mage Pet/Minion
     ENTRY_WATER_ELEMENTAL         = 78116,
     // Shaman Pet/Minion

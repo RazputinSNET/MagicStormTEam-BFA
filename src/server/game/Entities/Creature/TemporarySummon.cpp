@@ -359,6 +359,7 @@ bool Minion::IsWarlockMinion() const
         case ENTRY_CHAOS_TEAR:
         case ENTRY_UNSTABLE_TEAR:
         case ENTRY_SHADOWY_TEAR:
+        case ENTRY_VILEFIEND:
             return true;
         default:
             return false;
